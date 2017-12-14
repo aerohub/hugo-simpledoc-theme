@@ -4,7 +4,7 @@ Hugo Simpledoc Theme is a simple and clean documentation theme for Hugo. Also yo
 
 ## Screenshot
 
-![hugo-simpledoc-theme screenshot](images/screenshot.jpg)
+![hugo-simpledoc-theme screenshot](https://github.com/aerohub/hugo-simpledoc-theme/blob/master/images/screenshot.png)
 
 ## Features
 
