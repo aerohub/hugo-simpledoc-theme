@@ -6,7 +6,7 @@ license = "MIT"
 licenselink = "https://github.com/aerohub/hugo-simpledoc-theme/blob/master/LICENSE.md"
 description = "Clean and simple documentation theme for Hugo"
 homepage = "https://github.com/aerohub/hugo-simpledoc-theme"
-tags = [docs, documentation, simple, one-page]
+tags = [docs, documentation, simple]
 features = []
 min_version = "0.31.1"
 
