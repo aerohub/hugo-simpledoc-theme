@@ -27,17 +27,17 @@
         {{ end }}
         </nav>
     </section>
-    
+
     {{ range .Data.Pages.ByWeight }}
-    
+
     <section id="{{ .Params.anchor }}">
 
         <h1><a href="#{{ .Params.anchor }}">{{ .Title }}</a><small><a href="#html">{{ with .Site.Params.bttButton }}{{ . | markdownify }}{{ else }}Back to Top{{ end }}</a></small></h1>
 
-        {{ .Content }}
+        {{ .Content | markdownify }}
 
     </section>
-    
+
     {{ end }}
 
 </body>
